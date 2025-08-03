@@ -75,7 +75,7 @@ export default function Index() {
                 UI & UX <span className="text-primary">Designer</span>
               </h2>
               <p className="text-gray-600 mt-6 text-lg leading-relaxed max-w-lg">
-                A passionate and purpose-driven Frontend Developer and UI/UX Designer who loves building digital solutions that are clean, accessible, and impactful. I specialize in turning creative ideas into responsive, user-friendly web experiences using tools like Figma, HTML, CSS, JavaScript, V0 and firebase.
+                A passionate and purpose-driven Frontend Developer and UI/UX Designer who loves building digital solutions that are clean, accessible, and impactful. I specialize in turning creative ideas into responsive, user-friendly web experiences using tools like Figma, HTML, CSS, JavaScript, V0, react and firebase.
               </p>
               <div className="mt-8 flex flex-col sm:flex-row gap-4">
                 <button className="bg-primary text-white px-8 py-3 rounded-md font-medium hover:bg-orange-600 transition-colors flex items-center justify-center gap-2">
@@ -103,7 +103,7 @@ export default function Index() {
                 <div className="w-80 h-80 md:w-96 md:h-96 rounded-full overflow-hidden border-8 border-primary">
                   <img 
                     src="https://cdn.builder.io/api/v1/assets/26f767f21e854de3ba4615353253a1e8/whatsapp-image-2025-08-03-at-15.33.07_4d015500-c509fd?format=webp&width=800" 
-                    alt="AbdulmuizIsmail - UI/UX Designer" 
+                    alt="AbdulmuizIsmail - Web Developer" 
                     className="w-full h-full object-cover"
                   />
                 </div>
